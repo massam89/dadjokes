@@ -1,1 +1,1 @@
-## Dadjokes app  [show web](https://elegant-volhard-dcfb1e.netlify.app/)
+## Dadjokes app  [Show App](https://elegant-volhard-dcfb1e.netlify.app/)
